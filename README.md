@@ -1,4 +1,4 @@
-# :robot: 3.9.0 - Using Logic Gates
+# :robot: 3.9.0 - Utilizing Logic Gates
 
 ## 🤓 Overview and learning outcomes 
 
