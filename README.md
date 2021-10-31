@@ -25,13 +25,13 @@ Refer to [this list from Wikipedia](https://en.wikipedia.org/wiki/List_of_7400-s
 
 ## 📝 Next steps
 
-Your submission will include a markdown file titled, "results.md" and two text files titled, "my_logic_circuit.txt" and "universal_gate_circuit.txt".  You will descriptions of what you did as well as videos showing each step working.
+Your submission will include a markdown file titled, "results.md" and two text files titled, "my_logic_circuit.txt" and "universal_gate_circuit.txt".  You will include descriptions of what you did as well as videos showing each step working.
 
 ### Build the NAND Gate Circuit
 
 1. Open the text file named, "NAND_circuit.txt" in the Circuit Simulator App.
 2. Build the circuit.
-3. In your results file, describe how the NAND gate is working in your prototype and include a video showing your working prototype.
+3. In your results file, describe what the NAND gate is doing (from a logical math perspective) and include a video showing your working prototype.
 
 ### Build Another Circuit of Your Choice
 
